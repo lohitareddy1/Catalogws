@@ -1,0 +1,26 @@
+{
+  "name": "catalog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "dependencies": {
+    "express": "latest",
+    "cors": "latest",
+    "nodemon": "latest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lohitareddy1/Catalogws.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lohitareddy1/Catalogws/issues"
+  },
+  "homepage": "https://github.com/lohitareddy1/Catalogws#readme",
+  "description": ""
+}
